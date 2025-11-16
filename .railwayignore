@@ -1,0 +1,4 @@
+*.sum
+.git
+.gitignore
+README.md
