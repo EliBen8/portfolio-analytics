@@ -204,8 +204,6 @@ Health check endpoint
 
 ## 📈 Performance
 
-- **Throughput**: Handles 1000+ events/second
-- **Latency**: <50ms API response time (events queued to Kafka)
 - **Reliability**: Guaranteed message delivery with Kafka
 - **Scalability**: Horizontally scalable (add more consumer instances)
 
